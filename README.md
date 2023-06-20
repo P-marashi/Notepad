@@ -1,2 +1,2 @@
 # Notepad
-A simple notepad
+A simple Notepad
